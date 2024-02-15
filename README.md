@@ -21,14 +21,14 @@ Before using these scripts, ensure you have the following prerequisites:
    Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/terraform-aws-infrastructure.git
+    https://github.com/Tarun-Chand-Illapu/Terraform-Remote-Backend-Configuration-with-S3-and-DynamoDB.git
     ```
 
 2. **Navigate to the Repository:**
    Change into the cloned repository directory:
 
     ```bash
-    cd terraform-aws-infrastructure
+    cd Terraform-Remote-Backend-Configuration-with-S3-and-DynamoDB
     ```
 
 3. **Update Terraform Configuration:**
