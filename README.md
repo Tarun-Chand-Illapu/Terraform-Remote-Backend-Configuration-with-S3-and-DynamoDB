@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure
 ## Terraform-Remote-Backend-Configuration-with-S3-and-DynamoDB
-
+     
 This repository contains Terraform scripts to provision infrastructure on AWS. It sets up an EC2 instance, an S3 bucket to store Terraform state files, and a DynamoDB table for state locking.
 
 ## Description
